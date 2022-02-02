@@ -111,12 +111,14 @@ header {
  }
  .herocontainer {
      display: flex;
+     flex-wrap: wrap;
      justify-content: center;
      gap: 3rem;
      margin: 5rem 0;
  }
  .herocontainer img {
      height: 200px;
+
      transition: 1s;
 
  }
