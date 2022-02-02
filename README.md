@@ -1,0 +1,2 @@
+# staticweb
+practice website
